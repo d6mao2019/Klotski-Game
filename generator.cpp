@@ -1,2 +1,1 @@
-#include "klotski.h"
-
+#include "table.h"
